@@ -1,0 +1,18 @@
+URGENT: Your KYC Verification is Expired!
+
+Dear Customer,
+
+Your bank account (HDFC XXXX4521) has been temporarily BLOCKED due to incomplete KYC verification.
+
+To reactivate your account IMMEDIATELY:
+1. Click here: bit.ly/kyc-verify-now
+2. Enter your Aadhaar number
+3. Enter OTP sent to your registered mobile
+4. Verify PAN card details
+
+Failure to complete within 24 HOURS will result in permanent account suspension and UPI access blocked.
+
+Contact our KYC Helpdesk: +91-9XXXXXXXXX (WhatsApp only)
+
+This is an automated security notification.
+HDFC Bank Security Team

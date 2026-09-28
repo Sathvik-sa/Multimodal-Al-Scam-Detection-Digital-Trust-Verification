@@ -1,0 +1,21 @@
+URGENT - Family Emergency (WhatsApp Voice Note transcript)
+
+"[Static... breathing sounds]
+
+Mom... it's me... [voice cracks]
+
+I lost my phone and I'm using someone else's phone to call you.
+I'm stuck at the airport. They're saying my visa has some problem and they won't let me board.
+
+Please... please don't tell Dad yet, he'll panic.
+
+I need you to immediately send ₹15,000 to this UPI ID: emergency.help2026@paytm
+
+I'll explain everything when I get back. Please hurry, my flight is in 45 minutes.
+
+I love you. Please be quick. Don't call anyone else.
+
+[Call ends]"
+
+Note: This is a voice-cloned message simulating the AI voice clone scam pattern.
+Actual audio file: fake_voice.wav (included in demo_assets)
