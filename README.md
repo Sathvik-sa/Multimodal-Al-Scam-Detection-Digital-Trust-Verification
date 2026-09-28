@@ -147,7 +147,7 @@ VITE_API_URL=http://localhost:8000
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
@@ -226,14 +226,14 @@ After deployment, the app is automatically installable on:
 
 ## Security Features
 
-- ✅ JWT-ready authentication layer
-- ✅ File size limits (50MB max)
-- ✅ File type validation
-- ✅ CORS configuration
-- ✅ Auto-delete uploads after 24 hours
-- ✅ No permanent storage of recordings
-- ✅ Camera/microphone permission handling
-- ✅ HTTPS-ready deployment
+- * JWT-ready authentication layer
+- * File size limits (50MB max)
+- * File type validation
+- * CORS configuration
+- * Auto-delete uploads after 24 hours
+- * No permanent storage of recordings
+- * Camera/microphone permission handling
+- * HTTPS-ready deployment
 
 ---
 
